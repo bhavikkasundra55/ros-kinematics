@@ -3,7 +3,7 @@ Pick and place operation of robot manipulator using ROS, gazebo and moveit.
 
 I have used udacity Robotics nanodegree project resources from github for this project. Thank you udacity. In this project, Ubuntu 16.04 and ROS Kinetic distro is used and make sure you follow below instructions to set up project in your local machine. 
 
-![image](misc_images\gazebo-demo.gif)
+![image](https://github.com/bhavikkasundra55/ros-kinematics/tree/main/misc_images/gazebo-demo.gif)
 
 
 # Instructions 
